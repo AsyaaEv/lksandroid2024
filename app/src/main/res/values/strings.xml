@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Esport</string>
+    <string name="signIn">Sign In</string>
+    <string name="signUp">Sign Up</string>
+    <string name="welcomeText">Haloo, Selamat Datang Kembali !</string>
+    <string name="subWelcomeText">Kami sangat senang bertemu kamu kembali lagi!</string>
+    <string name="hintUserEmail">Username atau Email</string>
+    <string name="hintPassword">Password</string>
+    <string name="notHaveAcc">Tidak memiliki akun?</string>
+    <string name="buatAkun">Sign Up Sekarang</string>
+    <string name="Halo">Halo !</string>
+    <string name="BuatAkunBaru">Buat akun baru !</string>
+    <string name="hintFullName">Full Name</string>
+    <string name="hintUsername">Username</string>
+    <string name="hintEmail">Email</string>
+    <string name="hintCPassword">Confirm Password</string>
+    <string name="haveAcc">Sudah memiliki akun?</string>
+    <string name="Login">Sign In</string>
+    <string name="halo">Halo,</string>
+    <string name="search">Cari nama tim...</string>
+    <string name="tim">Tim</string>
+    <string name="pemain">Pemain</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
